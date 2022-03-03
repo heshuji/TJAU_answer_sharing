@@ -113,5 +113,6 @@
  # 天津农业大学的部分答案分享
 
 答案持续更新中.....
-
+有能力的可以关注github,更新的更快→[github地址戳这里](https://github.com/heshuji/TJAU_answer_sharing)
+gitee随缘备份
 公众号 " 贺输技 "
