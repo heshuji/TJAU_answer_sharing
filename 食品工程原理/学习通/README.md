@@ -29,7 +29,10 @@
  * @FilePath: \TJAU_answer_sharing\食品工程原理\学习通\README.md
  * 冲!
  -->
+# 食品工程原理
 
+讲师: 李茜
 
+第4次开课   开课时间：2022-01-01 至 2022-06-15
 
 ![](https://raw.githubusercontent.com/heshuji/pic_chuang/main/202203022140031.png)
