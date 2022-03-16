@@ -273,7 +273,19 @@
 
 ### 1-6 Unit test
 
-
+>1)upcoming 2)highlight 3)fraught 4)apathy 5)recounted 6)gamble 7)demanding 8)repay  9)redirect  10)transition 11)thriving 12)deduct  13)revert 14)investors 15)comprehensive 16)galvanized 17)aimless 18)hassle 19)sympathize 20)Economics
+>21)up 
+>22)through
+>23)with
+>24)down
+>25)for
+>26)By
+>27)on
+>28)to
+>29)in
+>30)out
+>31)slump 32)aimless 33)landlord 34)client 35)hassle 36)loan 37)honesty 38)sympathize 39)financially 40)Fortunately
+>41)C 42)A 43)A 44)D 45)A
 
 
 
