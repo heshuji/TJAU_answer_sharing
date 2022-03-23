@@ -1,4 +1,4 @@
-# **Unit 4 Money talks**
+# **Unit 4 *Money talks**
 
 ## The Integrated Course
 
@@ -10,7 +10,10 @@
 > 02、Anyone who is over a certain age, has a bank account, and has a guarantor, savings or a good balance in their bank account for a credit rating.
 > 03、The main use is to pay for goods and services.
 > 04、You can pay for goods and services without using cash or a cheque, which means you only need to carry one card around with you.
-> 05、There are several dangers: If it is lost or stolen, it may be copied or used by someone who wants to commit fraud but you may have insurance against it or the bank may cover the costs.
+> 05、There are several dangers: If it is lost or stolen, it may be copied or used by someone who wants to commit fraud but you may have insurance against it or the bank may cover the costs.   
+
+#### Pre-reading activity-2
+>B                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
 
 #### Txet
 
@@ -126,7 +129,7 @@
 
 ### 4-3 Language in use
 
-#### Grammar&structure-1
+#### Grammar&structure-1-1
 
 > 01、bus
 > 02、text
@@ -135,7 +138,14 @@
 > 05、hand
 > 06、gift
 > 07、bank
-
+#### Grammar&structure-1-2
+> 01、cash
+> 02、gift
+> 03、bussed
+> 04、text
+> 05、handed
+> 06、bank
+> 07、partying
 #### Grammar&structure-2
 
 > 01、The trains are liable to delay on Sunday evenings. (There are staffing problems at weekends, especially on Sunday evenings.) The trains are subject to delays on Sunday evenings. (There are particular regulations about Sunday travel.)
@@ -259,6 +269,8 @@
 
 ### 4-6 Unit test
 
+### 4-6 Unit test
+
 
 >1)breed 2)overseas 3)enlighten 4)crucial 5)indispensable 6)tremendous 7)reckon 8)pathetic 9)notify 10)scheme  
 >11)B 
@@ -283,7 +295,6 @@
 >30)behind
 >31)wicked 32)desirable 33)devastating 34)abject 35)greed 36)jealous 37)prone 38)naturally 39)yearn 40)unrealistic
 >41)D 42)D 43)D 44)A 45)D
-
 
 
 
@@ -483,74 +494,4 @@
 #### Exercise-5
 
 > 01、With the development of the Internet, online shopping has become incredibly popular in China and a preferred way of shopping, especially for young people. The "Double 11" Online Shopping Festival, which has emerged in recent years, provides a new opportunity for online retailers to prosper. The "Double 11" Online Shopping Festival originated in the massive online discount promotion by Taobao on 11 November 2009. Although the number of online businesses participating in it and the promotions were limited, the business turnover was far more than expected. The day was then set by online retailers as a yearly event for a massive sales promotion. Widely welcomed by online retailers and consumers, the "Double 11" is of great significance in boosting consumption and fuelling domestic demand.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
